@@ -1,0 +1,48 @@
+.App {
+display: flex;
+flex-wrap: wrap;
+}
+
+.s {
+  width: 30px;
+  height: 30px;
+  font-size: 10px;
+}
+
+.m {
+  width: 60px;
+  height: 60px;
+  font-size: 12px;
+}
+
+.l {
+  width: 120px;
+  height: 120px;
+  font-size: 15px;
+}
+
+.xl {
+  width: 200px;
+  height: 200px;
+  font-size: 18px;
+}
+
+.rounded {
+  border-radius: 4px;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.square {
+  border-radius: 0px;
+}
+
+.card {
+  /* height: 250px; */
+  width: 25%;
+  margin: 2%;
+  padding: 2%;
+  border: 1px solid lightgray;
+}
